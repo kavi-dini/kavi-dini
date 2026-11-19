@@ -1,18 +1,14 @@
 ## Hi I'm Kavishka 👋
 🎓 BSc IT Undergraduate | 🎯Aspiring Data Scientist
 
-🌱 Currently exploring programming, computer science and the world of technology.
+Interested in :
+- Data Science
+- Programming
+- Data Analysis
+- Artificial Intelligence
+- Problem Solving
 
-
-📚 Interested in :
-<ul> <li> Data Science </li>
-  <li> Programming </li>
-  <li> Data Analysis </li>
-  <li> Artificial Intelligence </li>
-  <li> Problem Solving </li>
-</ul>
-
-💡Currently Learning and building my skills.
+🌱 Building my knowledge and skills in technology, programming, and data science.
 
 ---
 Thanks for visiting my profile!
