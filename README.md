@@ -4,8 +4,7 @@
 🌱 Currently exploring programming, computer science and the world of technology.
 
 📚 Interested in :
-<ul>
-  <li> Data Science </li>
+<ul> <li> Data Science </li>
   <li> Programming </li>
   <li> Data Analysis </li>
   <li> Artificial Intelligence </li>
