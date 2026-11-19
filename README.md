@@ -1,9 +1,7 @@
 ## Hi I'm Kavishka 👋
-🎓 BSc IT Undergraduate 
+🎓 BSc IT Undergraduate | 🎯Aspiring Data Scientist
 
 🌱 Currently exploring programming, computer science and the world of technology.
-
-🎯 Aspiring Data Scientist
 
 📚 Interested in :
 <ul>
